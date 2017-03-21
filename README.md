@@ -27,4 +27,4 @@ Copyright
 
 This package is copyright by elioschmutz
 
-wp-plugin-tentconfigurator is licensed under GNU General Public License, version 2.
+wp-plugin-knockoutjs is licensed under GNU General Public License, version 2.
